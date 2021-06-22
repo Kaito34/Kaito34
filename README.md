@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Kaito34
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">
+  👋 Hi, I’m Kaito34
+</h1>
+
+- 🏫 I'm a student at the University of Keio in Japan.
+- 👀 I'm interested in competitive programming, artificial intelligence, team development, and backend.
+
+## 🐾  Qualification
+- TOEIC: 910
 
 <!---
 Kaito34/Kaito34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
