@@ -3,7 +3,7 @@
 </h1>
 
 - 🏫 I'm a student at the University of Keio in Japan.
-- 👀 I'm interested in artificial intelligence (generative model and recurrent neural network), team development, and backend.
+- 👀 I'm interested in Statistics, ML/DL, Web development 
 
 ## 🐾  Qualification
 - TOEIC: 910
